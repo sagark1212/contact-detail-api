@@ -1,0 +1,6 @@
+C:\Users\amrutkar\source\repos\ContactDetailsAPI\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\amrutkar\source\repos\ContactDetailsAPI\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\amrutkar\source\repos\ContactDetailsAPI\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\amrutkar\source\repos\ContactDetailsAPI\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\amrutkar\source\repos\ContactDetailsAPI\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\amrutkar\source\repos\ContactDetailsAPI\EntityLayer\obj\Debug\EntityLayer.pdb

@@ -1,0 +1,13 @@
+C:\Users\amrutkar\source\repos\ContactDetailsAPI\BussinessLayer\bin\Debug\BussinessLayer.dll
+C:\Users\amrutkar\source\repos\ContactDetailsAPI\BussinessLayer\bin\Debug\BussinessLayer.pdb
+C:\Users\amrutkar\source\repos\ContactDetailsAPI\BussinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\amrutkar\source\repos\ContactDetailsAPI\BussinessLayer\bin\Debug\Repositories.dll
+C:\Users\amrutkar\source\repos\ContactDetailsAPI\BussinessLayer\bin\Debug\Dapper.dll
+C:\Users\amrutkar\source\repos\ContactDetailsAPI\BussinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\amrutkar\source\repos\ContactDetailsAPI\BussinessLayer\bin\Debug\Repositories.pdb
+C:\Users\amrutkar\source\repos\ContactDetailsAPI\BussinessLayer\bin\Debug\Dapper.xml
+C:\Users\amrutkar\source\repos\ContactDetailsAPI\BussinessLayer\obj\Debug\BussinessLayer.csprojAssemblyReference.cache
+C:\Users\amrutkar\source\repos\ContactDetailsAPI\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\amrutkar\source\repos\ContactDetailsAPI\BussinessLayer\obj\Debug\BussinessLayer.csproj.CopyComplete
+C:\Users\amrutkar\source\repos\ContactDetailsAPI\BussinessLayer\obj\Debug\BussinessLayer.dll
+C:\Users\amrutkar\source\repos\ContactDetailsAPI\BussinessLayer\obj\Debug\BussinessLayer.pdb
