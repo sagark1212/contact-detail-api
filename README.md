@@ -19,4 +19,12 @@ Step 5:-Open the Web API project in Visual studio and run the project
 
 	Server is https://localhost:44336/
 
+###Folder Struture:
+   /BussinessLayer  :-  Bussiness Layer Class Library project
+   /ContactDetailsAPI :- .Net Web API project
+   /ContactDetailsAPI.Tests :- nUnit Test Project
+   /EntityLayer :- Entity Layer Class Library project
+   /Repositories :- Repositories Class Library project
+   /packages : Package files
 End 
+
