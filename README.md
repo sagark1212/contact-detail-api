@@ -1,1 +1,1 @@
-# contact-details-api
+# contact-detail-api
